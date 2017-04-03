@@ -6,6 +6,10 @@
 
 # GNU/Linux e\ il\ software\ libero
 
+## 
+
+![](images/scuola_bivio.png)
+
 ## Le quattro libertà
 
 - eseguire il programma per qualsiasi scopo
@@ -83,8 +87,8 @@ a\ partire da\ una\ esistente
 
 [scuola.linux.it](http://scuola.linux.it/community)
 
-- [Wii libera la lavagna](http://wiildos.it/)
-- [So.Di.Linux](http://sodilinux.itd.cnr.it/)
+- [Wii libera la lavagna](http://wiildos.it/) ([mailing list](https://groups.google.com/forum/?hl=it#!forum/wii_libera_la_lavagna/join) + [wiki](http://wiildos.wikispaces.com/))
+- [So.Di.Linux](http://sodilinux.itd.cnr.it/) ([mailing list](http://sodilinux.itd.cnr.it/index.php/iscriviti) + [fb](https://www.facebook.com/sodilinux))
 
 # So.Di.Linux
 

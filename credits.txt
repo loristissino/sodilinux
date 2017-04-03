@@ -1,3 +1,8 @@
 sodilinux2015cts.png
 © ITD CNR
 http://sodilinux.itd.cnr.it/
+
+
+scuola_bivio.png
+© ILS, CC BY
+http://scuola.linux.it/
