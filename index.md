@@ -2,7 +2,7 @@
 % Loris Tissino
   ![twitter](images/twitter.png) @loristissino ![telegram](images/telegram.png)
   _loris@tissino.it_
-% Marzo/Aprile 2017
+% Marzo/Maggio 2017
 
 # GNU/Linux e\ il\ software\ libero
 
@@ -18,6 +18,12 @@
 - migliorare il programma e distribuirne pubblicamente i miglioramenti
 
 (da [www.gnu.org/philosophy](https://www.gnu.org/philosophy/free-sw.it.html))
+
+## Il variegato mondo delle\ licenze
+
+Esistono svariate licenze per il software e la documentazione.
+
+Per orientarsi, può essere utile il [riepilogo della FSF](https://www.gnu.org/licenses/license-list.html).
 
 ## Linux
 
